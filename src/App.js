@@ -1,8 +1,10 @@
 import './App.css';
+import Navbar from './components/Navbar';
+
 const App = () => {
   return (
     <div className="App">
-      <h1>مدیریت مخاطبین</h1>
+      <Navbar />
     </div>
   );
 }
