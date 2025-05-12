@@ -1,4 +1,4 @@
-import SearchContact from "./contact/SearchContact";
+import SearchContact from "./Contacts/SearchContact";
 
 import { BACKGROUND, PURPLE } from "../helpers/colors";
 

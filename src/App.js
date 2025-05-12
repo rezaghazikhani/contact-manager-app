@@ -1,6 +1,5 @@
 //Components
-import Navbar from "./components/Navbar";
-import Contacts from "./components/contact/Contacts";
+import {  Contacts, Navbar  , AddContact, EditContact, ViewContact} from "./components/index";
 //react
 import { useState } from "react";
 //css
